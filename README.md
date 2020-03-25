@@ -17,7 +17,7 @@
 
 
 
-<h3>Para além do codigo, foi feito diagramas para especificar  este projeto.</h3>
+<h3>Para além do código, foi feito diagramas para especificar  este projeto.</h3>
 Os programas  usados foram <b>Visual Paradigm</b> e <b>Exel</b>.<br />
 Estes diagramas estão na diretoria <a href="https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/Diagrams">Diagrams</a>
 
