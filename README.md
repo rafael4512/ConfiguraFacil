@@ -6,8 +6,8 @@
  <h2>Como colocar o projeto a funcionar:</h2>
  
  <ol>
-  <li>Correr o script [ola](ConfiguraFacil/blob/ril/Project/DB/ConfiguraFacil_mysql_create.sql) no MYSQLworkbench.</li>
-  <li>(Opcional)Correr o script de "Project/DB/povoamento_DSS.sql" no MYSQLworkbench.</li>
+  <li>Correr o script <a href="https://github.com/rafael4512/ConfiguraFacil/blob/ril/Project/DB/ConfiguraFacil_mysql_create.sql">Criação_DB</a> no MYSQLworkbench.</li>
+  <li>(Opcional)Correr o script de <a href="https://github.com/rafael4512/ConfiguraFacil/blob/ril/Project/DB/povoamento_DSS.sql">Povoamento_DB</a> no MYSQLworkbench.</li>
   <li>Criar um projeto em branco num IDE.</li>
   <li>Colocar o ficheiro jar no IDE, que esta na diretoria "Project/jar_Auxiliar/" no projeto. (conector da DataBase)</li>
   <li>Substituir a pasta src do seu projeto por esta.</li>
