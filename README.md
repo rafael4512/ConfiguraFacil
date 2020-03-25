@@ -9,7 +9,7 @@
   <li>Correr o script <a href="https://github.com/rafael4512/ConfiguraFacil/blob/ril/Project/DB/ConfiguraFacil_mysql_create.sql">Criação_DB</a> no MYSQLworkbench.</li>
   <li>(Opcional)Correr o script de <a href="https://github.com/rafael4512/ConfiguraFacil/blob/ril/Project/DB/povoamento_DSS.sql">Povoamento_DB</a> no MYSQLworkbench.</li>
   <li>Criar um projeto em branco num IDE.</li>
-  <li>Colocar o conector da DataBase <em>(.jar)</em> no IDE.Pode fazer download  
+  <li>Colocar o conector da DataBase <em><bf>(.jar)</bf></em> no IDE.Pode fazer download  
 <a href="https://dev.mysql.com/downloads/connector/j/5.1.html">Connector_MYSQLworkbench</a> no projeto. </li>
   <li>Substituir a pasta src do seu projeto por <a href="https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/">esta</a>
 .</li>
