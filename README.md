@@ -1,6 +1,6 @@
 # ConfiguraFacil
  Protótipo de app em java para um configurador de carros.
- Projeto feito no * <b>Netbeans</b> * iDE  na cadeira  DSS  do 3 Ano , em Grupo.
+ Projeto feito no  <b>Netbeans</b>  iDE  na cadeira  DSS  do 3 Ano , em Grupo.
  Se quiser mais informações, ler o relatório.
  
  <h2>Como colocar o projeto a funcionar:</h2>
