@@ -3,18 +3,19 @@
  Projeto feito no *Netbeans* iDE  na cadeira  DSS  do 3 Ano , em Grupo.
  Se quiser mais informações, ler o relatório.
  
- ##Como colocar o projeto a funcionar:
+ <h2>Como colocar o projeto a funcionar:</h2>
  
- <ul>
-  <li>Correr o script "Project/DB/ConfiguraFacil_mysql_create.sql" no MYSQLworkbench.</li>
+ <ol>
+  <li>Correr o script [Project/DB/ConfiguraFacil_mysql_create.sql](https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/DB) no MYSQLworkbench.</li>
   <li>(Opcional)Correr o script de "Project/DB/povoamento_DSS.sql" no MYSQLworkbench.</li>
   <li>Criar um projeto em branco num IDE.</li>
   <li>Colocar o ficheiro jar no IDE, que esta na diretoria "Project/jar_Auxiliar/" no projeto. (conector da DataBase)</li>
   <li>Substituir a pasta src do seu projeto por esta.</li>
- </ul>
+ </ol>
 
 
 
-###Para além do codigo, foi feito diagramas para especificar  este projeto.
+<h3>Para além do codigo, foi feito diagramas para especificar  este projeto.</h3>
 Os programas  usados foram *Visual Paradigm* e *Exel*
+Estes diagramas estão na diretoria 
 
