@@ -18,6 +18,6 @@
 
 
 <h3>Para além do codigo, foi feito diagramas para especificar  este projeto.</h3>
-Os programas  usados foram *Visual Paradigm* e *Exel*.
+Os programas  usados foram *Visual Paradigm* e *Exel*.<br />
 Estes diagramas estão na diretoria <a href="https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/Diagrams">Diagrams</a>
 
