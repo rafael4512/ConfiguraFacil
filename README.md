@@ -11,7 +11,7 @@
   <li>Criar um projeto em branco num IDE.</li>
   <li>Colocar o ficheiro jar no IDE, que esta na diretoria 
 <a href="https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/jar_Auxiliar">Project/jar_Auxiliar/</a> no projeto. (conector da DataBase)</li>
-  <li>Substituir a pasta src do seu projeto por <a href="https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/src">esta</a>
+  <li>Substituir a pasta src do seu projeto por <a href="https://github.com/rafael4512/ConfiguraFacil/tree/ril/Project/">esta</a>
 .</li>
  </ol>
 
